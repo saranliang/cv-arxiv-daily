@@ -17,8 +17,12 @@ env:
 
   GITHUB_USER_NAME: saranliang
   GITHUB_USER_EMAIL: 446478712@qq.com
-  
-  
+
+#每个WorkFlow都通过event触发
+# WorkFlows:与.yml文件一一对应，所有yml都会parallel执行；
+# Jobs:默认为parallel,也可修改为sequential执行；
+#每个 job 是在同一个 runner 中进行的，runner 是指处于 github 的一台特殊的虚拟机，支持各种操作系统
+# Steps:sequential执行
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
