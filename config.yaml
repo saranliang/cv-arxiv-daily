@@ -32,8 +32,8 @@ keywords:
                   "visual place recognition","image retrieval"]
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
+    "Point cloud registration":
+        filters: ["Point cloud registration", "Sparse", 
                   "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "DRR":
+        filters: ["DRR"]
