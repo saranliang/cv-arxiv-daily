@@ -15,6 +15,8 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#point-cloud-registration>Point cloud registration</a></li>
+    <li><a href=#drr>DRR</a></li>
   </ol>
 </details>
 
@@ -3747,6 +3749,40 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
+
+## Point cloud registration
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-10-16**|**Sparse flow reconstruction methods to reduce the costs of analyzing large unsteady datasets**|Spencer L. Stahl et.al.|[2410.12627](http://arxiv.org/abs/2410.12627)|null|
+|**2024-10-16**|**Investigating Sensitive Directions in GPT-2: An Improved Baseline and Comparative Analysis of SAEs**|Daniel J. Lee et.al.|[2410.12555](http://arxiv.org/abs/2410.12555)|null|
+|**2024-10-16**|**A finite difference method with symmetry properties for the high-dimensional Bratu equation**|Muhammad Luthfi Shahab et.al.|[2410.12553](http://arxiv.org/abs/2410.12553)|null|
+|**2024-10-16**|**On sparse set topology using ideals in the space of reals**|Indrajit Debnath et.al.|[2410.12503](http://arxiv.org/abs/2410.12503)|null|
+|**2024-10-16**|**Expressivity of Linear Temporal Logic for Pomset Languages of Higher Dimensional Automata**|Emily Clement et.al.|[2410.12493](http://arxiv.org/abs/2410.12493)|null|
+|**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414](http://arxiv.org/abs/2410.12414)|null|
+|**2024-10-16**|**Tracking Universal Features Through Fine-Tuning and Model Merging**|Niels Horn et.al.|[2410.12391](http://arxiv.org/abs/2410.12391)|null|
+|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300](http://arxiv.org/abs/2410.12300)|null|
+|**2024-10-16**|**NP-hardness of testing equivalence to sparse polynomials and to constant-support polynomials**|Omkar Baraskar et.al.|[2410.12251](http://arxiv.org/abs/2410.12251)|null|
+|**2024-10-16**|**EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View**|Zhaorong Wang et.al.|[2410.12242](http://arxiv.org/abs/2410.12242)|null|
+
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
+
+## DRR
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-09-25**|**Insights into the Incorporation of Signal Information in Binaural Signal Matching with Wearable Microphone Arrays**|Ami Berger et.al.|[2409.11731](http://arxiv.org/abs/2409.11731)|null|
+|**2024-08-20**|**The Programmable Liquid-crystal Active Coronagraphic Imager for the DAG telescope (PLACID) instrument: On-site status update ahead of first light**|Jonas G. Kühn et.al.|[2408.10893](http://arxiv.org/abs/2408.10893)|null|
+|**2024-07-09**|**Deep-Motion-Net: GNN-based volumetric organ shape reconstruction from single-view 2D projections**|Isuru Wijesinghe et.al.|[2407.06692](http://arxiv.org/abs/2407.06692)|null|
+|**2024-06-28**|**Stackelberg Games with $k$ -Submodular Function under Distributional Risk-Receptiveness and Robustness**|Seonghun Park et.al.|[2406.13023](http://arxiv.org/abs/2406.13023)|null|
+|**2024-09-24**|**Distributionally Risk-Receptive and Robust Multistage Stochastic Integer Programs and Interdiction Models**|Sumin Kang et.al.|[2406.05256](http://arxiv.org/abs/2406.05256)|null|
+|**2024-06-06**|**Shadow and Light: Digitally Reconstructed Radiographs for Disease Classification**|Benjamin Hou et.al.|[2406.03688](http://arxiv.org/abs/2406.03688)|**[link](https://github.com/farrell236/DRR-RATE)**|
+|**2024-06-04**|**DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering**|Zhongpai Gao et.al.|[2406.02518](http://arxiv.org/abs/2406.02518)|null|
+|**2024-05-15**|**Asymptotic enumeration of Haar graphical representations**|Yunsong Gan et.al.|[2405.09192](http://arxiv.org/abs/2405.09192)|null|
+|**2024-05-15**|**Overcoming Domain Drift in Online Continual Learning**|Fan Lyu et.al.|[2405.09133](http://arxiv.org/abs/2405.09133)|null|
+|**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000](http://arxiv.org/abs/2404.13000)|null|
 
 <p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
